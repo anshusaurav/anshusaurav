@@ -1,20 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anshu</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
+ 🔭 I’m currently working on **my portfolio**
 
-- 🔭 I’m currently working on **my portfolio**
+🌱 I’m currently learning **Redux**
 
-- 🌱 I’m currently learning **Redux**
+📝 I regulary write articles on [anshusaurabh.codes](anshusaurabh.codes)
 
-- 📝 I regulary write articles on [anshusaurabh.codes](anshusaurabh.codes)
+💬 Ask me about **anything**
 
-- 💬 Ask me about **anything**
+📫 How to reach me **anshu.saurav@gmail.com**
 
-- 📫 How to reach me **anshu.saurav@gmail.com**
+⚡ Fun fact **Chai over coffee**
 
-- ⚡ Fun fact **Chai over coffee**
-
+</div>
 ## Skills
 
+<div  style="display:flex;">
+<div style="width:45%;">
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></p>
 
 <p>
@@ -26,8 +29,11 @@
 </p>
 
 <p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
+</div>
+<div style="width:45%;">
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusaurav&layout=compact&hide=html" alt="anshusaurav" /></p>
-
+</div>
+</div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshusaurav&show_icons=true" alt="anshusaurav"  /></p>
 
 <p align="center">
