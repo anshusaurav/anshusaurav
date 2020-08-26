@@ -1,29 +1,40 @@
-### Hi there. I am Anshu. 👋
+<h1 align="center">Hi 👋, I'm Anshu</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<br />
+- 🔭 I’m currently working on **my portfolio**
 
-### Stats
+- 🌱 I’m currently learning **Redux**
 
-https://github-readme-stats.vercel.app/api?username=anshusaurav&show_icons=true&hide_border=true
+- 📝 I regulary write articles on [anshusaurabh.codes](anshusaurabh.codes)
 
-### Technical Skills
+- 💬 Ask me about **anything**
 
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" >
-<img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js"> <br />
+- 📫 How to reach me **anshu.saurav@gmail.com**
 
-<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"><br/>
+- ⚡ Fun fact **Chai over coffee**
 
-### Github Stats
+## Skills
 
-![anshu's github stats](https://github-readme-stats.vercel.app/api?username=anshusaurav&show_icons=true&line_height=30)
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></p>
+
+<p>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></p>
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+</p>
+<p> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</p>
+
+<p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusaurav&layout=compact&hide=html" alt="anshusaurav" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshusaurav&show_icons=true" alt="anshusaurav"  /></p>
+
+<p align="center">
+<a href="https://twitter.com/anshusaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anshusaurav" height="30" width="30" /></a>
+<a href="https://instagram.com/anshusaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anshusaurav" height="30" width="30" /></a>
+</a>
+<a href="https://medium.com/anshusaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="anshusaurav" height="30" width="30" /></a>
+</p>
 
 ⭐️ From [anshusaurav](https://github.com/anshusaurav)
-
-### Contact Me
-
-|
