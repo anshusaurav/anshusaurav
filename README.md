@@ -14,7 +14,7 @@
 ⚡ Fun fact **Chai over coffee**
 
 </div>
-## Skills
+<h2>Skills</h2>
 
 <div >
 <div style="float: left;width:45%;">
