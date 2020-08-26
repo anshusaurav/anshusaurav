@@ -16,8 +16,8 @@
 </div>
 <h2>Skills</h2>
 
-<div >
-<div style="float: left;width:45%;">
+<div style="display:grid; grid-template-columns:repeat(2,1fr);">
+<div>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></p>
 
 <p>
@@ -30,7 +30,7 @@
 
 <p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
 </div>
-<div style="float:right;width:45%">
+<div>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusaurav&layout=compact&hide=html" alt="anshusaurav" /></p>
 </div>
 </div>
