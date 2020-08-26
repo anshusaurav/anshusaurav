@@ -26,7 +26,7 @@
 </p>
 
 <p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusaurav&layout=compact&hide=html" alt="anshusaurav" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusaurav&layout=compact&hide=html" alt="anshusaurav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshusaurav&show_icons=true" alt="anshusaurav"  /></p>
 
