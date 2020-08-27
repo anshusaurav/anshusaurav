@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anshu</h1>
+<div align="center">
+<span>
+<img  src="https://img.shields.io/twitter/follow/anshusaurav?style=social"><a href="https://twitter.com/anshusaurav"></a></img>
+<span>
+<span>
+<img  src="https://img.shields.io/badge/-anshusaurav-blue?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@anshu.saurav/"><a href="https://medium.com/@anshu.saurav"></a></img>
+</span>
+<span>
+<img  src="https://img.shields.io/github/followers/anshusaurav?label=follow&style=social"><a href="https://github.com/anshusaurav"></a></img>
+</span>
+</div>
 <h3 align="center">A passionate full stack developer from India</h3>
+
 <div align="center">
 
 🔭 I’m currently working on **My portfolio**
@@ -36,10 +48,3 @@
 </div>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshusaurav&show_icons=true" alt="anshusaurav"  /></p>
-
-<p align="center">
-<a href="https://twitter.com/anshusaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anshusaurav" height="30" width="30" /></a>
-<a href="https://instagram.com/anshusaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="anshusaurav" height="30" width="30" /></a>
-</a>
-<a href="https://medium.com/anshusaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="anshusaurav" height="30" width="30" /></a>
-</p>
