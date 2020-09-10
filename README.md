@@ -16,7 +16,7 @@
 
 🔭 I’m currently working on **Airbnb-Clone**
 
-🌱 I’m currently learning **Redux**
+🌱 I’m currently learning **TypeScript**
 
 📝 I regulary write articles on [anshusaurabh.codes](anshusaurabh.codes)
 
