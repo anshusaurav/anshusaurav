@@ -14,9 +14,9 @@
 
 <div align="center">
 
-🔭 I’m currently working on **Airbnb-Clone**
+🔭 I’m currently working on **Slack Bot**
 
-🌱 I’m currently learning **TypeScript**
+🌱 I’m currently learning **GraphQL**
 
 📝 I regulary write articles on [anshusaurabh.codes](anshusaurabh.codes)
 
