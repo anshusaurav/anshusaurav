@@ -67,8 +67,4 @@
 <img src="https://www.codewars.com/users/anshusaurav/badges/large">
 </div>
 </div>
-<div >
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshusaurav&layout=compact&hide=html" alt="anshusaurav" /></p>
-</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshusaurav&show_icons=true" alt="anshusaurav"  /></p>
